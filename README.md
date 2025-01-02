@@ -77,6 +77,6 @@ Give a ⭐️ if this project helped you!
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/counter_initial.png" width="200" alt="Initial State"/>
-  <img src="screenshots/counter_incremented.png" width="200" alt="After Increment"/>
+  <img src="screenshot/counter_initial.png" width="200" alt="Initial State"/>
+  <img src="screenshot/counter_incremented.png" width="200" alt="After Increment"/>
 </p>
